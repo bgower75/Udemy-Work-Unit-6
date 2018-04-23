@@ -1,0 +1,29 @@
+td {
+
+/*Content - Width and Height*/
+
+width: 100px;
+height: 100px;
+
+/*background: blue;*/
+/*border: 2px solid;*/
+}
+
+table {
+	margin: auto;
+}
+
+.vertical {
+	border-right: 2px solid;
+	border-left: 2px solid;
+}
+
+.horizontal {
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 20%
+}
